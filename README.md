@@ -16,7 +16,7 @@ product categorization and a simple checkout flow.
 - Figma
 
 ## Design Preview
-[View Full Design on Figma](https://www.figma.com/file/abc123/Kagekuy-App](https://www.figma.com/design/FhhonlPqooDk7lGE5ijGkr/Final-Exam-Apk-Mobile?node-id=0-1&t=mHTrJDmXGJYDbhru-1)
+[View Full Design on Figma](https://www.figma.com/design/FhhonlPqooDk7lGE5ijGkr/Final-Exam-Apk-Mobile?node-id=0-1&t=mHTrJDmXGJYDbhru-1)
 
 ## Screenshots
 ![Home](firstpage.png)
